@@ -1,0 +1,33 @@
+body{
+	background-color: #7C4DFF;
+	background-image: url("./images/image (1).jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    min-width: 250px;
+    min-height: 320px; 
+
+
+}
+
+.main-guide{
+	border-style: solid;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px
+
+
+
+}
+.os{
+	background-color: red;
+	background-size: 60px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+
+	text-decoration: none;
+
+
+
+
+}
